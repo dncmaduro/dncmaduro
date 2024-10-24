@@ -21,7 +21,7 @@
 
 
 ### Glad to see you here!  
-I'm a passionate programmer with a strong enthusiasm for staying ahead of the curve and integrating the latest technologies. Specializes in web application development, capable of handling both frontend and backend responsibilities. I'm currently serving as a Frontend Intern at Missing Corner Inc., a Frontend Developer at GDSC HANU, and in the process of launching the GDSC UET.  
+I'm a passionate programmer with a strong enthusiasm for staying ahead of the curve and integrating the latest technologies. Specializes in web application development, capable of handling both frontend and backend responsibilities. I'm currently serving as a Frontend Intern at Missing Corner Inc.  
   
 
 <br/>  
