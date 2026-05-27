@@ -26,12 +26,11 @@
 
 ## 👨‍💻 About me
 
-- 🔥 Former **Frontend Developer** at **Missing Corner Inc.**  
-- 🎓 Former **Frontend Developer** at **GDG HANU**  
-- 💼 Currently **Web Developer @ Sun* Asterisk Inc.**  
-- 🚀 Also **Software Developer @ My Candy Việt Nam**, building large-scale internal systems  
-- 🧱 Focused on **modern Web, scalable architecture, TypeScript & DX**  
-- 🌏 Available for any **Web-related work opportunities**
+- 💼 Current **Software Developer @ My Candy Việt Nam**
+- 💼 Former **Frontend Developer** at **Missing Corner Inc.**  
+- 💼 Former **Frontend Developer** at **GDG HANU**  
+- 💼 Former **Web Developer** at **Sun Asterisk Vietnam**  
+- 🧱 Focused on **Software, Javascript, Python**  
 
 ---
 
