@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Maduro 👋</h1>
 
 <p align="center">
-  Software Developer • Frontend Engineer • JavaScript / TypeScript
+  Software Engineer • Indie Hacker • Builder
 </p>
 
 <p align="center">
@@ -24,48 +24,62 @@
 
 ## 👨‍💻 About Me
 
-- 💻 Software Developer at **Viettel High Tech**
-- 🏗️ Building & operating internal systems at **MyCandy Vietnam**
-- ⚡ Frontend-focused, working mainly with **Flutter, React, Next.js & TypeScript**
-- ⚙️ Also building backend services with **Node.js / NestJS**
-- 🧠 Interested in **architecture, performance, rendering & how things actually work**
+I'm a **Software Engineer & Indie Hacker** who enjoys turning ideas into real, usable products.
+
+Currently working as a **Software Engineer at Viettel High Tech**, while independently building and experimenting with products in **Artificial Intelligence, Browser Extensions, and Web Games**.
+
+I care about creating things that are useful, intuitive, and technically interesting.
+
+Beyond building products, I enjoy exploring how systems work, solving engineering challenges, and bringing new ideas to life.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Things I'm Building
 
-### Main
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,ts,js,react,next,nodejs,nestjs,postgres" />
-</p>
+### 🧠 InoAI
+**Founder · AI-Powered Learning Platform**
 
-### Also working with
-<p>
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,express,mongodb,mysql,redis,docker,git,linux,figma" />
-</p>
+An AI-driven learning and teaching platform exploring how artificial intelligence can make education more accessible, personalized, and interactive.
+
+### 📸 Capture Website
+**Founder · Browser Extension**
+
+A browser extension designed to capture websites through sequential viewport screenshots and organize them into a single downloadable archive.
+
+Built to simplify website documentation, visual analysis, and AI-assisted workflows.
+
+### 🎮 Web Games
+**Indie Game Developer · Browser-Based Games**
+
+I enjoy bringing creative ideas to life through interactive, browser-based games.
+
+- **Tanjiro vs Muzan** — An anime-inspired action game bringing the iconic Demon Slayer showdown to the browser.
+- **CrossRoadsInVietnam** — A first-person 3D game inspired by the chaotic experience of crossing streets in Vietnam, featuring dynamic traffic, challenging levels, and immersive urban environments.
+
+Building games is where I get to experiment, have fun, and turn ridiculous ideas into playable experiences.
 
 ---
 
-## 🚀 Recent Work
+## 🏗️ Engineering Experience
 
-- 🗺️ **Tactical Management System**  
-  Flutter • Map rendering • Vector layers • Performance optimization
+I've worked on building and maintaining software systems across different business and operational domains.
 
-- 🖥️ **Command & Operational Interfaces**  
-  React • Complex dashboards • Real-time operational UI
+- **CRM Systems** — Customer relationship management and business workflows.
+- **Attendance Management** — Employee attendance tracking and workforce operations.
+- **Internal Expense Management** — Expense tracking, reporting, and internal financial workflows.
+- **Tactical & Operational Systems** — Real-time interfaces, interactive maps, and performance-sensitive applications.
 
-- 📊 **Internal Business Systems**  
-  Next.js • NestJS • PostgreSQL • KPI, Task, Revenue & Workflow Management
-
-- 🤖 **Knowledge Base & Automation**  
-  Structured knowledge • Chatbot workflows • Internal tooling
+My experience spans both product development and internal enterprise systems, from initial ideas to production-ready applications.
 
 ---
 
 ## 🧩 What I'm Into
 
-`Frontend Architecture` • `Flutter` • `React` • `Performance`  
-`Node.js` • `NestJS` • `PostgreSQL` • `Docker` • `System Design`
+`Artificial Intelligence` • `Indie Hacking` • `Browser Extensions`
+
+`Web Games` • `Product Engineering` • `System Architecture`
+
+`Creative Coding` • `Automation` • `Performance Optimization`
 
 ---
 
