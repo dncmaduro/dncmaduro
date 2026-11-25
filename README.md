@@ -1,7 +1,11 @@
 <h1 align="center">Hi, I'm Maduro 👋</h1>
 
 <p align="center">
-  Software Engineer • Indie Hacker • Builder
+  Software Engineer • Open Source Contributor • Indie Hacker
+</p>
+
+<p align="center">
+  Building frameworks, developer tools, and products.
 </p>
 
 <p align="center">
@@ -24,66 +28,174 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer & Indie Hacker** who enjoys turning ideas into real, usable products.
+I'm a **Software Engineer, Open Source Contributor, and Indie Hacker** from Vietnam.
 
-Currently working as a **Software Engineer at Viettel High Tech**, while independently building and experimenting with products in **Artificial Intelligence, Browser Extensions, and Web Games**.
+Currently working as a **Software Engineer at Viettel High Tech**, building real-time, performance-sensitive applications and interactive interfaces.
 
-I care about creating things that are useful, intuitive, and technically interesting.
+Outside of work, I build independent products and open-source software through **[MaduroLabs](https://github.com/MaduroLabs)**, with a growing interest in frontend framework internals, reactive systems, browser architecture, and developer tooling.
 
-Beyond building products, I enjoy exploring how systems work, solving engineering challenges, and bringing new ideas to life.
+I enjoy understanding how software works beneath its abstractions, experimenting with architectural ideas, and turning those ideas into working software.
+
+Sometimes that means building a framework from scratch. Sometimes it means investigating a browser rendering bug. Sometimes it's just a ridiculous game idea that I want to make playable.
 
 ---
 
-## 🚀 Things I'm Building
+## 🚀 Featured Open Source Projects
 
-### 🧠 InoAI
+### [Ruseact](https://github.com/MaduroLabs/ruseact)
+
+**Creator & Maintainer · Frontend Runtime Engineering**
+
+An experimental React-inspired frontend runtime powered by Rust, WebAssembly, and TypeScript.
+
+Ruseact explores alternative approaches to frontend architecture, particularly the separation between a Rust-based reactive core and browser-facing rendering.
+
+Current areas of development:
+
+- Signal-based reactivity and dependency tracking
+- Reactive graph architecture
+- Rust and WebAssembly interoperability
+- Fine-grained DOM bindings
+- JSX/TSX compiler integration
+- Component lifecycle and ownership
+- Structural rendering and scheduling research
+
+Ruseact is an ongoing engineering experiment, not a production-ready replacement for React.
+
+**Technologies:** `Rust` `WebAssembly` `TypeScript` `JSX` `DOM`
+
+### [StylePort](https://github.com/MaduroLabs/styleport)
+
+**Creator & Maintainer · AI Developer Tooling**
+
+An open-source collection of Agent Skills for extracting and transferring design systems between frontend applications.
+
+StylePort enables AI coding agents to understand an existing frontend's visual language and adapt it to another application without replacing its business logic, routes, data, or existing behavior.
+
+- Framework-neutral design system bundles
+- Design tokens and component conventions
+- Frontend style extraction and adaptation
+- AI-assisted frontend engineering workflows
+- Reusable skills for Codex, Claude Code, and Cursor
+
+**Install:**
+
+    npx skills add MaduroLabs/styleport
+
+**Technologies:** `Agent Skills` `Design Systems` `Python` `AI Coding Agents`
+
+---
+
+## 🌍 Open Source Contributions
+
+I contribute to open-source projects, particularly in the frontend ecosystem, where I enjoy investigating complex bugs and working through their underlying causes.
+
+### [Reka UI](https://github.com/unovue/reka-ui)
+
+An accessible, headless UI component library for Vue.
+
+Areas I've worked on:
+
+- Browser layout and positioning
+- Clipping ancestor detection
+- Focus management and external dialog integration
+- DOM coordinate systems and CSS transformations
+- Browser regression testing
+
+**Selected contribution:**
+
+- [#3331 — Fix NavigationMenu viewport clipping](https://github.com/unovue/reka-ui/pull/3331) — Merged
+
+---
+
+## 🛠️ Independent Projects
+
+### InoAI
+
 **Founder · AI-Powered Learning Platform**
 
-An AI-driven learning and teaching platform exploring how artificial intelligence can make education more accessible, personalized, and interactive.
+An experimental AI-driven learning platform exploring how artificial intelligence can make education more accessible, personalized, and interactive.
 
-### 📸 Capture Website
-**Founder · Browser Extension**
+### Capture Website
 
-A browser extension designed to capture websites through sequential viewport screenshots and organize them into a single downloadable archive.
+**Creator · Browser Extension**
+
+A browser extension designed to capture websites through sequential viewport screenshots and organize them into downloadable archives.
 
 Built to simplify website documentation, visual analysis, and AI-assisted workflows.
 
-### 🎮 Web Games
-**Indie Game Developer · Browser-Based Games**
+### Vietnam Crossing
 
-I enjoy bringing creative ideas to life through interactive, browser-based games.
+**Creator · Browser-Based 3D Game**
 
-- **Tanjiro vs Muzan** — An anime-inspired action game bringing the iconic Demon Slayer showdown to the browser.
-- **CrossRoadsInVietnam** — A first-person 3D game inspired by the chaotic experience of crossing streets in Vietnam, featuring dynamic traffic, challenging levels, and immersive urban environments.
+A first-person 3D game inspired by the chaotic experience of crossing streets in Vietnam.
 
-Building games is where I get to experiment, have fun, and turn ridiculous ideas into playable experiences.
+Features dynamic traffic simulation, vehicle behavior, physics, multiple levels, and Vietnamese-inspired urban environments.
+
+**Technologies:** `React` `TypeScript` `Three.js` `React Three Fiber` `Rapier`
+
+### Tanjiro vs Muzan
+
+**Creator · Browser-Based Action Game**
+
+An anime-inspired action game bringing the Demon Slayer showdown to the browser.
+
+Game development is where I experiment with interactive systems, creative coding, and ideas that don't necessarily need a business model.
 
 ---
 
 ## 🏗️ Engineering Experience
 
-I've worked on building and maintaining software systems across different business and operational domains.
+My professional experience spans enterprise applications, internal business systems, and performance-sensitive software.
 
-- **CRM Systems** — Customer relationship management and business workflows.
-- **Attendance Management** — Employee attendance tracking and workforce operations.
-- **Internal Expense Management** — Expense tracking, reporting, and internal financial workflows.
-- **Tactical & Operational Systems** — Real-time interfaces, interactive maps, and performance-sensitive applications.
+- **Real-Time Systems** — Event-driven interfaces, real-time data visualization, and asynchronous data processing.
+- **Geospatial Applications** — Interactive maps, dynamic entities, and map rendering optimization.
+- **Performance Engineering** — Rendering efficiency, concurrency, state management, and runtime optimization.
+- **Enterprise Applications** — CRM, attendance management, expense management, and internal operational workflows.
+- **Frontend Architecture** — Component architecture, application state, rendering pipelines, and maintainable software design.
 
-My experience spans both product development and internal enterprise systems, from initial ideas to production-ready applications.
-
----
-
-## 🧩 What I'm Into
-
-`Artificial Intelligence` • `Indie Hacking` • `Browser Extensions`
-
-`Web Games` • `Product Engineering` • `System Architecture`
-
-`Creative Coding` • `Automation` • `Performance Optimization`
+I'm particularly interested in the engineering decisions behind software: how systems are structured, how data flows, and how architectural trade-offs affect performance and maintainability.
 
 ---
 
-## 📊 GitHub Stats
+## 💻 Technologies & Tools
+
+**Languages**
+
+`JavaScript` `TypeScript` `Dart` `Rust` `HTML` `CSS`
+
+**Frontend & Application Development**
+
+`React` `Vue` `Flutter` `Riverpod` `Vite` `Three.js`
+
+**Backend & Infrastructure**
+
+`Node.js` `NestJS` `PostgreSQL` `Redis` `NATS` `Docker`
+
+**Runtime & Engineering**
+
+`WebAssembly` `Reactive Systems` `DOM` `Browser APIs` `GitHub Actions`
+
+**Artificial Intelligence**
+
+`LLM Applications` `RAG` `Agent Skills` `AI-Assisted Engineering`
+
+---
+
+## 🔬 What I'm Exploring
+
+- Frontend framework architecture and internals
+- Fine-grained reactivity and reactive graphs
+- Rendering pipelines and compiler-assisted rendering
+- Browser internals and web performance
+- Rust and WebAssembly for frontend infrastructure
+- Software architecture and system design
+- Open-source development and maintainership
+- AI-powered developer tools
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
   <img
